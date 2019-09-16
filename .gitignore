@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.DS_Store
+*.pyc
+*.csv
+*.txt
+*.output
+*.zip
+!enronemail_1h.txt
+stripes/
